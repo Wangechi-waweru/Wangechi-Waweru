@@ -14,7 +14,7 @@ Welcome to my portfolio where you can view my [projects](https://github.com/Wang
 
 <h3>💻 Tools</h3>
 
-SQL, Python, Microsoft execel, Google sheets, Tableau and Power Bi
+SQL, Python, Microsoft Excel, Google sheets, Tableau and Power Bi
 
 
 <h3>📜 Certifications</h3> 

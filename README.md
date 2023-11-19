@@ -17,7 +17,7 @@ Welcome to my portfolio.
 SQL, Python, Microsoft execel, Google sheets, Tableau and Power Bi
 
 
-<h3>**📜Certifications**</h3> 
+<h3>📜Certifications</h3> 
 
 IBM Data Analyst Professional Certificate
 

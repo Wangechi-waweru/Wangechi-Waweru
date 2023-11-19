@@ -15,7 +15,7 @@ SQL, Python, Microsoft execel, Google sheets, Tableau and Power Bi
 
 **📜Certifications**: IBM Data Analyst Professional Certificate
 
-📩How to reach me: message me on [https://www.linkedin.com/in/wangechi-waweru-8497881a2/](Linkedin)
+📩How to reach me: message me on [Linkedin](https://www.linkedin.com/in/wangechi-waweru-8497881a2/)
 
 
 

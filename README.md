@@ -25,6 +25,7 @@ IBM Data Analyst Professional Certificate
 <h3>🤝🏾Connect with me</h3>
 
 📩 [Linkedin](https://www.linkedin.com/in/wangechi-waweru-8497881a2/)
+📧 wawerulynn@gmail.com
 
 
 

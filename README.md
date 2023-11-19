@@ -1,4 +1,4 @@
-🙋🏾‍♀️ <h2>**Introducing myself**</h2>
+<h2>**🙋🏾‍♀️ Introducing myself**</h2>
 
 👋🏾 Hello there! I'm Lynn Wangechi Waweru.
 
@@ -15,7 +15,7 @@ SQL, Python, Microsoft execel, Google sheets, Tableau and Power Bi
 
 **📜Certifications**: IBM Data Analyst Professional Certificate
 
-📩How to reach me: message me on [https://www.linkedin.com/in/wangechi-waweru-8497881a2/](url)
+📩How to reach me: message me on [Linkedin]([url](https://www.linkedin.com/in/wangechi-waweru-8497881a2/))
 
 
 

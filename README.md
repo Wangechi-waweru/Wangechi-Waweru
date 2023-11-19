@@ -1,16 +1,21 @@
-### Hi there 👋
+🙋🏾‍♀️ <h2>**Introducing myself**</h2>
 
-<!--
-**Wangechi-waweru/Wangechi-Waweru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏾 Hello there! I'm Lynn Wangechi Waweru.
 
-Here are some ideas to get you started:
+📉 A data analyst based in Nairobi Kenya, currently working at hevara.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 My goal is not only to crunch numbers but to tell a compelling story through data, translating complex information into actionable insights that drive business growth.
+
+<h2>**📚Projects**</h2>
+
+Welcome to my portfolio.
+
+**💻Tools** 
+SQL, Python, Microsoft execel, Google sheets, Tableau and Power Bi
+
+**📜Certifications**: IBM Data Analyst Professional Certificate
+
+📩How to reach me: message me on [https://www.linkedin.com/in/wangechi-waweru-8497881a2/](url)
+
+
+

@@ -9,7 +9,7 @@
 
 <h3>📚 Projects</h3>
 
-Welcome to my portfolio.
+Welcome to my portfolio where you can view my [projects](https://github.com/Wangechi-waweru/Portfolio/blob/main/README.md)
 
 
 <h3>💻 Tools</h3>

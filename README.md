@@ -7,15 +7,17 @@
 💼 My goal is not only to crunch numbers but to tell a compelling story through data, translating complex information into actionable insights that drive business growth.
 
 <h2>**📚Projects**</h2>
-
 Welcome to my portfolio.
 
-**💻Tools** 
+<h2>**💻Tools**</h2>
+
 SQL, Python, Microsoft execel, Google sheets, Tableau and Power Bi
+
 
 **📜Certifications**: IBM Data Analyst Professional Certificate
 
-📩How to reach me: message me on [Linkedin](https://www.linkedin.com/in/wangechi-waweru-8497881a2/)
+
+📩How to reach me: Message me on [Linkedin](https://www.linkedin.com/in/wangechi-waweru-8497881a2/)
 
 
 
